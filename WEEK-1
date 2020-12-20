@@ -1,0 +1,10 @@
+fun main() {
+   val x=-1
+    if(x==0){
+    println("The value is neither negative nor positive")}
+    if(x>0){
+    println("The Value is positive")}
+    else{
+    println("The value is negative")}
+    
+}
