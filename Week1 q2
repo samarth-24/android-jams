@@ -1,0 +1,5 @@
+fun main(){
+    val arr=arrayOf("1","4","5")
+    var temp=arr.max()
+    print(temp)
+}
